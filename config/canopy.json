@@ -2,14 +2,14 @@
   "prod": {
     "collection": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll6/p1.json",
     "featured": [
-      "https://cdm15808.contentdm.oclc.org/iiif/p15808coll6:5403/manifest.json",
+      "https://cdm15808.contentdm.oclc.org/iiif/p15808coll6:5403/manifest.json"
     ],
     "metadata": ["Date", "Author", "Recipient"]
   },
   "dev": {
     "collection": "https://cdm15808.contentdm.oclc.org/iiif/2/p15808coll6/p1.json",
     "featured": [
-      "https://cdm15808.contentdm.oclc.org/iiif/p15808coll6:5403/manifest.json",
+      "https://cdm15808.contentdm.oclc.org/iiif/p15808coll6:5403/manifest.json"
     ],
     "metadata": ["Date", "Author", "Recipient"]
   }
